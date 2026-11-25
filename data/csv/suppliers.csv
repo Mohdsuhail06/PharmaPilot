@@ -1,0 +1,51 @@
+supplier_id,name,country,kind,certificates,avg_lead_time_days,on_time_rate
+1,Supplier-001 (synthetic),Jordan,manufacturer,GMP; CEP,14,0.96
+2,Supplier-002 (synthetic),India,distributor,GMP; CEP,45,0.777
+3,Supplier-003 (synthetic),Germany,manufacturer,GMP; CEP,39,0.852
+4,Supplier-004 (synthetic),Jordan,manufacturer,DMF,60,0.795
+5,Supplier-005 (synthetic),Jordan,distributor,GMP,47,0.985
+6,Supplier-006 (synthetic),India,distributor,DMF,42,0.723
+7,Supplier-007 (synthetic),Jordan,manufacturer,,60,0.82
+8,Supplier-008 (synthetic),India,distributor,GMP,9,0.803
+9,Supplier-009 (synthetic),Jordan,distributor,GMP,50,0.787
+10,Supplier-010 (synthetic),Jordan,distributor,DMF,46,0.922
+11,Supplier-011 (synthetic),India,manufacturer,GMP,63,0.831
+12,Supplier-012 (synthetic),India,distributor,DMF,58,0.901
+13,Supplier-013 (synthetic),India,distributor,GMP,57,0.909
+14,Supplier-014 (synthetic),Türkiye,manufacturer,DMF,21,0.774
+15,Supplier-015 (synthetic),Türkiye,distributor,GMP; CEP,59,0.935
+16,Supplier-016 (synthetic),India,manufacturer,,49,0.772
+17,Supplier-017 (synthetic),Germany,distributor,,56,0.795
+18,Supplier-018 (synthetic),Türkiye,distributor,,14,0.957
+19,Supplier-019 (synthetic),Germany,manufacturer,GMP; CEP,9,0.749
+20,Supplier-020 (synthetic),Türkiye,distributor,GMP; CEP,34,0.884
+21,Supplier-021 (synthetic),Jordan,distributor,GMP,23,0.732
+22,Supplier-022 (synthetic),Türkiye,manufacturer,GMP,30,0.836
+23,Supplier-023 (synthetic),Germany,distributor,,53,0.963
+24,Supplier-024 (synthetic),Germany,distributor,GMP; CEP,32,0.908
+25,Supplier-025 (synthetic),India,manufacturer,DMF,49,0.974
+26,Supplier-026 (synthetic),India,distributor,DMF,42,0.945
+27,Supplier-027 (synthetic),Germany,distributor,GMP,34,0.932
+28,Supplier-028 (synthetic),Germany,distributor,DMF,35,0.902
+29,Supplier-029 (synthetic),Türkiye,manufacturer,,25,0.859
+30,Supplier-030 (synthetic),Germany,manufacturer,GMP,50,0.804
+31,Supplier-031 (synthetic),India,manufacturer,,9,0.786
+32,Supplier-032 (synthetic),Türkiye,manufacturer,DMF,33,0.959
+33,Supplier-033 (synthetic),India,distributor,DMF,32,0.786
+34,Supplier-034 (synthetic),Jordan,manufacturer,DMF,21,0.767
+35,Supplier-035 (synthetic),Türkiye,manufacturer,GMP,65,0.949
+36,Supplier-036 (synthetic),Türkiye,manufacturer,DMF,49,0.863
+37,Supplier-037 (synthetic),Germany,distributor,DMF,60,0.965
+38,Supplier-038 (synthetic),Türkiye,manufacturer,DMF,35,0.79
+39,Supplier-039 (synthetic),India,distributor,DMF,47,0.785
+40,Supplier-040 (synthetic),Türkiye,manufacturer,GMP; CEP,22,0.793
+41,Supplier-041 (synthetic),Germany,manufacturer,GMP,16,0.782
+42,Supplier-042 (synthetic),India,manufacturer,,33,0.83
+43,Supplier-043 (synthetic),Türkiye,distributor,,20,0.945
+44,Supplier-044 (synthetic),Türkiye,manufacturer,DMF,37,0.722
+45,Supplier-045 (synthetic),Germany,distributor,DMF,61,0.961
+46,Supplier-046 (synthetic),Türkiye,manufacturer,DMF,21,0.794
+47,Supplier-047 (synthetic),Türkiye,manufacturer,DMF,28,0.901
+48,Supplier-048 (synthetic),Türkiye,manufacturer,DMF,65,0.754
+49,Supplier-049 (synthetic),Jordan,distributor,,12,0.894
+50,Supplier-050 (synthetic),India,distributor,GMP,10,0.79

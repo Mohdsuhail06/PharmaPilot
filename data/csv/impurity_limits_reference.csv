@@ -1,0 +1,18 @@
+reference_id,material_id,product_id,impurity,limit_pct,source,relative_retention
+1,1,,impurity_a,0.2,Ph. Eur. 2583 Montelukast Sodium (supplied reference),0.8 (chiral)
+2,1,,impurity_b,0.3,Ph. Eur. 2583 Montelukast Sodium (supplied reference),1.9
+3,1,,impurity_c,0.2,Ph. Eur. 2583 Montelukast Sodium (supplied reference),0.37 / 0.43
+4,1,,impurity_d_plus_e,0.15,Ph. Eur. 2583 Montelukast Sodium (supplied reference),0.9
+5,1,,impurity_f,0.15,Ph. Eur. 2583 Montelukast Sodium (supplied reference),1.2
+6,1,,impurity_g,0.15,Ph. Eur. 2583 Montelukast Sodium (supplied reference),0.8
+7,1,,impurity_other,0.1,Ph. Eur. 2583 Montelukast Sodium (supplied reference),
+8,1,,total_impurities,0.6,Ph. Eur. 2583 Montelukast Sodium (supplied reference),
+9,,1,impurity_b,0.3,BP Montelukast Tablets (supplied reference),1.55
+10,,1,impurity_c,1.7,BP Montelukast Tablets (supplied reference),0.45
+11,,1,impurity_g,0.5,BP Montelukast Tablets (supplied reference),0.92
+12,,1,impurity_d_plus_e,0.15,BP Montelukast Tablets (supplied reference),1.16 / 1.18
+13,,1,impurity_f,0.15,BP Montelukast Tablets (supplied reference),1.04
+14,,1,impurity_other,0.2,BP Montelukast Tablets (supplied reference),
+15,,1,total_impurities,2.7,BP Montelukast Tablets (supplied reference),
+16,,1,impurity_d,0.15,BP Montelukast Tablets (supplied reference),1.16
+17,,1,impurity_e,0.15,BP Montelukast Tablets (supplied reference),1.18

@@ -1,0 +1,301 @@
+product_id,test_name,unit,limit_min,limit_max,source
+1,assay,%,94.0,105.0,BP Montelukast Tablets (supplied reference)
+1,dissolution_20min,%,80.0,,BP Montelukast Tablets (supplied reference)
+1,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+1,water,%,,5.0,Synthetic in-house demo
+1,hardness,N,30.0,150.0,Synthetic in-house demo
+1,impurity_b,%,,0.3,BP Montelukast Tablets (supplied reference)
+1,impurity_c,%,,1.7,BP Montelukast Tablets (supplied reference)
+1,impurity_g,%,,0.5,BP Montelukast Tablets (supplied reference)
+1,impurity_d_plus_e,%,,0.15,BP Montelukast Tablets (supplied reference)
+1,impurity_f,%,,0.15,BP Montelukast Tablets (supplied reference)
+1,impurity_other,%,,0.2,BP Montelukast Tablets (supplied reference)
+1,total_impurities,%,,2.7,BP Montelukast Tablets (supplied reference)
+2,assay,%,92.0,108.0,Synthetic in-house demo
+2,dissolution_20min,%,80.0,,Synthetic in-house demo
+2,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+2,water,%,,5.0,Synthetic in-house demo
+2,hardness,N,30.0,150.0,Synthetic in-house demo
+2,impurity_b,%,,0.3,Synthetic in-house demo
+2,impurity_c,%,,1.7,Synthetic in-house demo
+2,impurity_g,%,,0.5,Synthetic in-house demo
+2,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+2,impurity_f,%,,0.15,Synthetic in-house demo
+2,impurity_other,%,,0.2,Synthetic in-house demo
+2,total_impurities,%,,2.7,Synthetic in-house demo
+3,assay,%,92.0,108.0,Synthetic in-house demo
+3,dissolution_20min,%,80.0,,Synthetic in-house demo
+3,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+3,water,%,,5.0,Synthetic in-house demo
+3,hardness,N,30.0,150.0,Synthetic in-house demo
+3,impurity_b,%,,0.3,Synthetic in-house demo
+3,impurity_c,%,,1.7,Synthetic in-house demo
+3,impurity_g,%,,0.5,Synthetic in-house demo
+3,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+3,impurity_f,%,,0.15,Synthetic in-house demo
+3,impurity_other,%,,0.2,Synthetic in-house demo
+3,total_impurities,%,,2.7,Synthetic in-house demo
+4,assay,%,92.0,108.0,Synthetic in-house demo
+4,dissolution_20min,%,80.0,,Synthetic in-house demo
+4,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+4,water,%,,5.0,Synthetic in-house demo
+4,hardness,N,30.0,150.0,Synthetic in-house demo
+4,impurity_b,%,,0.3,Synthetic in-house demo
+4,impurity_c,%,,1.7,Synthetic in-house demo
+4,impurity_g,%,,0.5,Synthetic in-house demo
+4,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+4,impurity_f,%,,0.15,Synthetic in-house demo
+4,impurity_other,%,,0.2,Synthetic in-house demo
+4,total_impurities,%,,2.7,Synthetic in-house demo
+5,assay,%,92.0,108.0,Synthetic in-house demo
+5,dissolution_20min,%,80.0,,Synthetic in-house demo
+5,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+5,water,%,,5.0,Synthetic in-house demo
+5,hardness,N,30.0,150.0,Synthetic in-house demo
+5,impurity_b,%,,0.3,Synthetic in-house demo
+5,impurity_c,%,,1.7,Synthetic in-house demo
+5,impurity_g,%,,0.5,Synthetic in-house demo
+5,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+5,impurity_f,%,,0.15,Synthetic in-house demo
+5,impurity_other,%,,0.2,Synthetic in-house demo
+5,total_impurities,%,,2.7,Synthetic in-house demo
+6,assay,%,92.0,108.0,Synthetic in-house demo
+6,dissolution_20min,%,80.0,,Synthetic in-house demo
+6,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+6,water,%,,5.0,Synthetic in-house demo
+6,hardness,N,30.0,150.0,Synthetic in-house demo
+6,impurity_b,%,,0.3,Synthetic in-house demo
+6,impurity_c,%,,1.7,Synthetic in-house demo
+6,impurity_g,%,,0.5,Synthetic in-house demo
+6,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+6,impurity_f,%,,0.15,Synthetic in-house demo
+6,impurity_other,%,,0.2,Synthetic in-house demo
+6,total_impurities,%,,2.7,Synthetic in-house demo
+7,assay,%,92.0,108.0,Synthetic in-house demo
+7,dissolution_20min,%,80.0,,Synthetic in-house demo
+7,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+7,water,%,,5.0,Synthetic in-house demo
+7,hardness,N,30.0,150.0,Synthetic in-house demo
+7,impurity_b,%,,0.3,Synthetic in-house demo
+7,impurity_c,%,,1.7,Synthetic in-house demo
+7,impurity_g,%,,0.5,Synthetic in-house demo
+7,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+7,impurity_f,%,,0.15,Synthetic in-house demo
+7,impurity_other,%,,0.2,Synthetic in-house demo
+7,total_impurities,%,,2.7,Synthetic in-house demo
+8,assay,%,92.0,108.0,Synthetic in-house demo
+8,dissolution_20min,%,80.0,,Synthetic in-house demo
+8,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+8,water,%,,5.0,Synthetic in-house demo
+8,hardness,N,30.0,150.0,Synthetic in-house demo
+8,impurity_b,%,,0.3,Synthetic in-house demo
+8,impurity_c,%,,1.7,Synthetic in-house demo
+8,impurity_g,%,,0.5,Synthetic in-house demo
+8,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+8,impurity_f,%,,0.15,Synthetic in-house demo
+8,impurity_other,%,,0.2,Synthetic in-house demo
+8,total_impurities,%,,2.7,Synthetic in-house demo
+9,assay,%,92.0,108.0,Synthetic in-house demo
+9,dissolution_20min,%,80.0,,Synthetic in-house demo
+9,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+9,water,%,,5.0,Synthetic in-house demo
+9,hardness,N,30.0,150.0,Synthetic in-house demo
+9,impurity_b,%,,0.3,Synthetic in-house demo
+9,impurity_c,%,,1.7,Synthetic in-house demo
+9,impurity_g,%,,0.5,Synthetic in-house demo
+9,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+9,impurity_f,%,,0.15,Synthetic in-house demo
+9,impurity_other,%,,0.2,Synthetic in-house demo
+9,total_impurities,%,,2.7,Synthetic in-house demo
+10,assay,%,92.0,108.0,Synthetic in-house demo
+10,dissolution_20min,%,80.0,,Synthetic in-house demo
+10,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+10,water,%,,5.0,Synthetic in-house demo
+10,hardness,N,30.0,150.0,Synthetic in-house demo
+10,impurity_b,%,,0.3,Synthetic in-house demo
+10,impurity_c,%,,1.7,Synthetic in-house demo
+10,impurity_g,%,,0.5,Synthetic in-house demo
+10,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+10,impurity_f,%,,0.15,Synthetic in-house demo
+10,impurity_other,%,,0.2,Synthetic in-house demo
+10,total_impurities,%,,2.7,Synthetic in-house demo
+11,assay,%,92.0,108.0,Synthetic in-house demo
+11,dissolution_20min,%,80.0,,Synthetic in-house demo
+11,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+11,water,%,,5.0,Synthetic in-house demo
+11,hardness,N,30.0,150.0,Synthetic in-house demo
+11,impurity_b,%,,0.3,Synthetic in-house demo
+11,impurity_c,%,,1.7,Synthetic in-house demo
+11,impurity_g,%,,0.5,Synthetic in-house demo
+11,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+11,impurity_f,%,,0.15,Synthetic in-house demo
+11,impurity_other,%,,0.2,Synthetic in-house demo
+11,total_impurities,%,,2.7,Synthetic in-house demo
+12,assay,%,92.0,108.0,Synthetic in-house demo
+12,dissolution_20min,%,80.0,,Synthetic in-house demo
+12,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+12,water,%,,5.0,Synthetic in-house demo
+12,hardness,N,30.0,150.0,Synthetic in-house demo
+12,impurity_b,%,,0.3,Synthetic in-house demo
+12,impurity_c,%,,1.7,Synthetic in-house demo
+12,impurity_g,%,,0.5,Synthetic in-house demo
+12,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+12,impurity_f,%,,0.15,Synthetic in-house demo
+12,impurity_other,%,,0.2,Synthetic in-house demo
+12,total_impurities,%,,2.7,Synthetic in-house demo
+13,assay,%,92.0,108.0,Synthetic in-house demo
+13,dissolution_20min,%,80.0,,Synthetic in-house demo
+13,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+13,water,%,,5.0,Synthetic in-house demo
+13,hardness,N,30.0,150.0,Synthetic in-house demo
+13,impurity_b,%,,0.3,Synthetic in-house demo
+13,impurity_c,%,,1.7,Synthetic in-house demo
+13,impurity_g,%,,0.5,Synthetic in-house demo
+13,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+13,impurity_f,%,,0.15,Synthetic in-house demo
+13,impurity_other,%,,0.2,Synthetic in-house demo
+13,total_impurities,%,,2.7,Synthetic in-house demo
+14,assay,%,92.0,108.0,Synthetic in-house demo
+14,dissolution_20min,%,80.0,,Synthetic in-house demo
+14,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+14,water,%,,5.0,Synthetic in-house demo
+14,hardness,N,30.0,150.0,Synthetic in-house demo
+14,impurity_b,%,,0.3,Synthetic in-house demo
+14,impurity_c,%,,1.7,Synthetic in-house demo
+14,impurity_g,%,,0.5,Synthetic in-house demo
+14,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+14,impurity_f,%,,0.15,Synthetic in-house demo
+14,impurity_other,%,,0.2,Synthetic in-house demo
+14,total_impurities,%,,2.7,Synthetic in-house demo
+15,assay,%,92.0,108.0,Synthetic in-house demo
+15,dissolution_20min,%,80.0,,Synthetic in-house demo
+15,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+15,water,%,,5.0,Synthetic in-house demo
+15,hardness,N,30.0,150.0,Synthetic in-house demo
+15,impurity_b,%,,0.3,Synthetic in-house demo
+15,impurity_c,%,,1.7,Synthetic in-house demo
+15,impurity_g,%,,0.5,Synthetic in-house demo
+15,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+15,impurity_f,%,,0.15,Synthetic in-house demo
+15,impurity_other,%,,0.2,Synthetic in-house demo
+15,total_impurities,%,,2.7,Synthetic in-house demo
+16,assay,%,92.0,108.0,Synthetic in-house demo
+16,dissolution_20min,%,80.0,,Synthetic in-house demo
+16,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+16,water,%,,5.0,Synthetic in-house demo
+16,hardness,N,30.0,150.0,Synthetic in-house demo
+16,impurity_b,%,,0.3,Synthetic in-house demo
+16,impurity_c,%,,1.7,Synthetic in-house demo
+16,impurity_g,%,,0.5,Synthetic in-house demo
+16,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+16,impurity_f,%,,0.15,Synthetic in-house demo
+16,impurity_other,%,,0.2,Synthetic in-house demo
+16,total_impurities,%,,2.7,Synthetic in-house demo
+17,assay,%,92.0,108.0,Synthetic in-house demo
+17,dissolution_20min,%,80.0,,Synthetic in-house demo
+17,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+17,water,%,,5.0,Synthetic in-house demo
+17,hardness,N,30.0,150.0,Synthetic in-house demo
+17,impurity_b,%,,0.3,Synthetic in-house demo
+17,impurity_c,%,,1.7,Synthetic in-house demo
+17,impurity_g,%,,0.5,Synthetic in-house demo
+17,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+17,impurity_f,%,,0.15,Synthetic in-house demo
+17,impurity_other,%,,0.2,Synthetic in-house demo
+17,total_impurities,%,,2.7,Synthetic in-house demo
+18,assay,%,92.0,108.0,Synthetic in-house demo
+18,dissolution_20min,%,80.0,,Synthetic in-house demo
+18,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+18,water,%,,5.0,Synthetic in-house demo
+18,hardness,N,30.0,150.0,Synthetic in-house demo
+18,impurity_b,%,,0.3,Synthetic in-house demo
+18,impurity_c,%,,1.7,Synthetic in-house demo
+18,impurity_g,%,,0.5,Synthetic in-house demo
+18,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+18,impurity_f,%,,0.15,Synthetic in-house demo
+18,impurity_other,%,,0.2,Synthetic in-house demo
+18,total_impurities,%,,2.7,Synthetic in-house demo
+19,assay,%,92.0,108.0,Synthetic in-house demo
+19,dissolution_20min,%,80.0,,Synthetic in-house demo
+19,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+19,water,%,,5.0,Synthetic in-house demo
+19,hardness,N,30.0,150.0,Synthetic in-house demo
+19,impurity_b,%,,0.3,Synthetic in-house demo
+19,impurity_c,%,,1.7,Synthetic in-house demo
+19,impurity_g,%,,0.5,Synthetic in-house demo
+19,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+19,impurity_f,%,,0.15,Synthetic in-house demo
+19,impurity_other,%,,0.2,Synthetic in-house demo
+19,total_impurities,%,,2.7,Synthetic in-house demo
+20,assay,%,92.0,108.0,Synthetic in-house demo
+20,dissolution_20min,%,80.0,,Synthetic in-house demo
+20,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+20,water,%,,5.0,Synthetic in-house demo
+20,hardness,N,30.0,150.0,Synthetic in-house demo
+20,impurity_b,%,,0.3,Synthetic in-house demo
+20,impurity_c,%,,1.7,Synthetic in-house demo
+20,impurity_g,%,,0.5,Synthetic in-house demo
+20,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+20,impurity_f,%,,0.15,Synthetic in-house demo
+20,impurity_other,%,,0.2,Synthetic in-house demo
+20,total_impurities,%,,2.7,Synthetic in-house demo
+21,assay,%,92.0,108.0,Synthetic in-house demo
+21,dissolution_20min,%,80.0,,Synthetic in-house demo
+21,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+21,water,%,,5.0,Synthetic in-house demo
+21,hardness,N,30.0,150.0,Synthetic in-house demo
+21,impurity_b,%,,0.3,Synthetic in-house demo
+21,impurity_c,%,,1.7,Synthetic in-house demo
+21,impurity_g,%,,0.5,Synthetic in-house demo
+21,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+21,impurity_f,%,,0.15,Synthetic in-house demo
+21,impurity_other,%,,0.2,Synthetic in-house demo
+21,total_impurities,%,,2.7,Synthetic in-house demo
+22,assay,%,92.0,108.0,Synthetic in-house demo
+22,dissolution_20min,%,80.0,,Synthetic in-house demo
+22,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+22,water,%,,5.0,Synthetic in-house demo
+22,hardness,N,30.0,150.0,Synthetic in-house demo
+22,impurity_b,%,,0.3,Synthetic in-house demo
+22,impurity_c,%,,1.7,Synthetic in-house demo
+22,impurity_g,%,,0.5,Synthetic in-house demo
+22,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+22,impurity_f,%,,0.15,Synthetic in-house demo
+22,impurity_other,%,,0.2,Synthetic in-house demo
+22,total_impurities,%,,2.7,Synthetic in-house demo
+23,assay,%,92.0,108.0,Synthetic in-house demo
+23,dissolution_20min,%,80.0,,Synthetic in-house demo
+23,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+23,water,%,,5.0,Synthetic in-house demo
+23,hardness,N,30.0,150.0,Synthetic in-house demo
+23,impurity_b,%,,0.3,Synthetic in-house demo
+23,impurity_c,%,,1.7,Synthetic in-house demo
+23,impurity_g,%,,0.5,Synthetic in-house demo
+23,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+23,impurity_f,%,,0.15,Synthetic in-house demo
+23,impurity_other,%,,0.2,Synthetic in-house demo
+23,total_impurities,%,,2.7,Synthetic in-house demo
+24,assay,%,92.0,108.0,Synthetic in-house demo
+24,dissolution_20min,%,80.0,,Synthetic in-house demo
+24,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+24,water,%,,5.0,Synthetic in-house demo
+24,hardness,N,30.0,150.0,Synthetic in-house demo
+24,impurity_b,%,,0.3,Synthetic in-house demo
+24,impurity_c,%,,1.7,Synthetic in-house demo
+24,impurity_g,%,,0.5,Synthetic in-house demo
+24,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+24,impurity_f,%,,0.15,Synthetic in-house demo
+24,impurity_other,%,,0.2,Synthetic in-house demo
+24,total_impurities,%,,2.7,Synthetic in-house demo
+25,assay,%,92.0,108.0,Synthetic in-house demo
+25,dissolution_20min,%,80.0,,Synthetic in-house demo
+25,content_uniformity_av,AV,,15.0,Pharmacopoeial general AV threshold (demo application)
+25,water,%,,5.0,Synthetic in-house demo
+25,hardness,N,30.0,150.0,Synthetic in-house demo
+25,impurity_b,%,,0.3,Synthetic in-house demo
+25,impurity_c,%,,1.7,Synthetic in-house demo
+25,impurity_g,%,,0.5,Synthetic in-house demo
+25,impurity_d_plus_e,%,,0.15,Synthetic in-house demo
+25,impurity_f,%,,0.15,Synthetic in-house demo
+25,impurity_other,%,,0.2,Synthetic in-house demo
+25,total_impurities,%,,2.7,Synthetic in-house demo

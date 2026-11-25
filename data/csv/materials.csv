@@ -1,0 +1,121 @@
+material_id,name,type,cas_no,unit,reorder_level,min_order_qty,std_lead_time_days
+1,Montelukast sodium,API,151767-02-1,kg,50.0,5.0,10
+2,Paracetamol,API,103-90-2,kg,50.0,10.0,38
+3,Metformin,API,,kg,10.0,5.0,20
+4,Amlodipine,API,,kg,50.0,25.0,18
+5,Atorvastatin,API,,kg,50.0,10.0,11
+6,Omeprazole,API,,kg,10.0,5.0,34
+7,Ibuprofen,API,15687-27-1,g,10.0,25.0,10
+8,Cetirizine,API,,kg,50.0,5.0,60
+9,Loratadine,API,,kg,10.0,10.0,42
+10,Fexofenadine,API,,kg,10.0,5.0,61
+11,Pantoprazole,API,,kg,25.0,10.0,26
+12,Esomeprazole,API,,kg,10.0,10.0,20
+13,Losartan,API,,kg,10.0,10.0,19
+14,Valsartan,API,,g,25.0,10.0,40
+15,Candesartan,API,,kg,10.0,25.0,65
+16,Bisoprolol,API,,kg,50.0,5.0,55
+17,Rosuvastatin,API,,kg,10.0,25.0,44
+18,Famotidine,API,,kg,50.0,25.0,53
+19,Melatonin,API,,kg,50.0,5.0,15
+20,Microcrystalline cellulose,excipient,9004-34-6,kg,10.0,25.0,36
+21,Lactose monohydrate,excipient,5989-81-1,g,25.0,5.0,36
+22,Croscarmellose sodium,excipient,74811-65-7,kg,10.0,10.0,42
+23,Hydroxypropyl cellulose,excipient,9004-64-2,kg,25.0,25.0,53
+24,Magnesium stearate,excipient,557-04-0,kg,10.0,10.0,52
+25,Hypromellose (HPMC),coating,9004-65-3,kg,10.0,25.0,41
+26,Titanium dioxide,coating,13463-67-7,kg,50.0,25.0,16
+27,Iron oxides,coating,,kg,50.0,25.0,28
+28,Colloidal silicon dioxide,excipient,,g,50.0,25.0,38
+29,Mannitol,excipient,69-65-8,kg,10.0,10.0,55
+30,Chewable flavor blend (synthetic),excipient,,kg,25.0,25.0,35
+31,Capsule shell (synthetic),excipient,,kg,50.0,10.0,14
+32,Sodium starch glycolate,excipient,,kg,10.0,5.0,47
+33,Povidone,excipient,9003-39-8,kg,25.0,10.0,15
+34,Talc,excipient,14807-96-6,kg,10.0,25.0,47
+35,Starch,excipient,9005-25-8,g,10.0,25.0,70
+36,Excipient grade 036 (synthetic),excipient,,kg,25.0,25.0,65
+37,Coating grade 037 (synthetic),coating,,kg,10.0,10.0,24
+38,Packaging grade 038 (synthetic),packaging,,kg,10.0,25.0,40
+39,Excipient grade 039 (synthetic),excipient,,kg,50.0,25.0,61
+40,Coating grade 040 (synthetic),coating,,kg,50.0,10.0,53
+41,Packaging grade 041 (synthetic),packaging,,kg,10.0,5.0,70
+42,Excipient grade 042 (synthetic),excipient,,g,10.0,5.0,21
+43,Coating grade 043 (synthetic),coating,,kg,10.0,25.0,27
+44,Packaging grade 044 (synthetic),packaging,,kg,50.0,10.0,15
+45,Excipient grade 045 (synthetic),excipient,,kg,25.0,10.0,66
+46,Coating grade 046 (synthetic),coating,,kg,50.0,10.0,8
+47,Packaging grade 047 (synthetic),packaging,,kg,50.0,25.0,21
+48,Excipient grade 048 (synthetic),excipient,,kg,50.0,25.0,41
+49,Coating grade 049 (synthetic),coating,,g,50.0,10.0,21
+50,Packaging grade 050 (synthetic),packaging,,kg,25.0,10.0,27
+51,Excipient grade 051 (synthetic),excipient,,kg,25.0,5.0,40
+52,Coating grade 052 (synthetic),coating,,kg,50.0,5.0,20
+53,Packaging grade 053 (synthetic),packaging,,kg,50.0,10.0,32
+54,Excipient grade 054 (synthetic),excipient,,kg,10.0,10.0,27
+55,Coating grade 055 (synthetic),coating,,kg,50.0,25.0,7
+56,Packaging grade 056 (synthetic),packaging,,g,50.0,10.0,69
+57,Excipient grade 057 (synthetic),excipient,,kg,10.0,5.0,53
+58,Coating grade 058 (synthetic),coating,,kg,25.0,5.0,14
+59,Packaging grade 059 (synthetic),packaging,,kg,10.0,25.0,17
+60,Excipient grade 060 (synthetic),excipient,,kg,10.0,25.0,69
+61,Coating grade 061 (synthetic),coating,,kg,10.0,25.0,23
+62,Packaging grade 062 (synthetic),packaging,,kg,10.0,25.0,67
+63,Excipient grade 063 (synthetic),excipient,,g,50.0,5.0,40
+64,Coating grade 064 (synthetic),coating,,kg,50.0,25.0,61
+65,Packaging grade 065 (synthetic),packaging,,kg,10.0,25.0,32
+66,Excipient grade 066 (synthetic),excipient,,kg,50.0,10.0,58
+67,Coating grade 067 (synthetic),coating,,kg,50.0,25.0,54
+68,Packaging grade 068 (synthetic),packaging,,kg,25.0,25.0,64
+69,Excipient grade 069 (synthetic),excipient,,kg,10.0,5.0,35
+70,Coating grade 070 (synthetic),coating,,g,10.0,10.0,9
+71,Packaging grade 071 (synthetic),packaging,,kg,50.0,25.0,36
+72,Excipient grade 072 (synthetic),excipient,,kg,50.0,5.0,7
+73,Coating grade 073 (synthetic),coating,,kg,10.0,25.0,14
+74,Packaging grade 074 (synthetic),packaging,,kg,10.0,5.0,11
+75,Excipient grade 075 (synthetic),excipient,,kg,25.0,5.0,37
+76,Coating grade 076 (synthetic),coating,,kg,25.0,25.0,69
+77,Packaging grade 077 (synthetic),packaging,,g,10.0,25.0,23
+78,Excipient grade 078 (synthetic),excipient,,kg,50.0,25.0,67
+79,Coating grade 079 (synthetic),coating,,kg,10.0,10.0,59
+80,Packaging grade 080 (synthetic),packaging,,kg,10.0,5.0,19
+81,Excipient grade 081 (synthetic),excipient,,kg,50.0,10.0,52
+82,Coating grade 082 (synthetic),coating,,kg,25.0,10.0,66
+83,Packaging grade 083 (synthetic),packaging,,kg,50.0,5.0,19
+84,Excipient grade 084 (synthetic),excipient,,g,10.0,10.0,50
+85,Coating grade 085 (synthetic),coating,,kg,10.0,5.0,31
+86,Packaging grade 086 (synthetic),packaging,,kg,10.0,25.0,64
+87,Excipient grade 087 (synthetic),excipient,,kg,10.0,10.0,30
+88,Coating grade 088 (synthetic),coating,,kg,25.0,10.0,38
+89,Packaging grade 089 (synthetic),packaging,,kg,10.0,10.0,19
+90,Excipient grade 090 (synthetic),excipient,,kg,10.0,25.0,8
+91,Coating grade 091 (synthetic),coating,,g,10.0,5.0,28
+92,Packaging grade 092 (synthetic),packaging,,kg,25.0,10.0,68
+93,Excipient grade 093 (synthetic),excipient,,kg,10.0,10.0,14
+94,Coating grade 094 (synthetic),coating,,kg,10.0,10.0,7
+95,Packaging grade 095 (synthetic),packaging,,kg,25.0,10.0,65
+96,Excipient grade 096 (synthetic),excipient,,kg,25.0,10.0,69
+97,Coating grade 097 (synthetic),coating,,kg,10.0,5.0,44
+98,Packaging grade 098 (synthetic),packaging,,g,10.0,5.0,14
+99,Excipient grade 099 (synthetic),excipient,,kg,50.0,10.0,14
+100,Coating grade 100 (synthetic),coating,,kg,10.0,25.0,68
+101,Packaging grade 101 (synthetic),packaging,,kg,50.0,25.0,27
+102,Excipient grade 102 (synthetic),excipient,,kg,10.0,25.0,17
+103,Coating grade 103 (synthetic),coating,,kg,10.0,5.0,15
+104,Packaging grade 104 (synthetic),packaging,,kg,50.0,5.0,58
+105,Excipient grade 105 (synthetic),excipient,,g,10.0,25.0,38
+106,Coating grade 106 (synthetic),coating,,kg,50.0,25.0,12
+107,Packaging grade 107 (synthetic),packaging,,kg,50.0,5.0,60
+108,Excipient grade 108 (synthetic),excipient,,kg,50.0,25.0,47
+109,Coating grade 109 (synthetic),coating,,kg,25.0,5.0,47
+110,Packaging grade 110 (synthetic),packaging,,kg,10.0,10.0,57
+111,Excipient grade 111 (synthetic),excipient,,kg,10.0,25.0,45
+112,Coating grade 112 (synthetic),coating,,g,25.0,10.0,16
+113,Packaging grade 113 (synthetic),packaging,,kg,10.0,10.0,19
+114,Excipient grade 114 (synthetic),excipient,,kg,10.0,25.0,34
+115,Coating grade 115 (synthetic),coating,,kg,50.0,10.0,23
+116,Packaging grade 116 (synthetic),packaging,,kg,25.0,5.0,38
+117,Excipient grade 117 (synthetic),excipient,,kg,25.0,10.0,27
+118,Coating grade 118 (synthetic),coating,,kg,25.0,25.0,45
+119,Packaging grade 119 (synthetic),packaging,,g,50.0,25.0,8
+120,Excipient grade 120 (synthetic),excipient,,kg,50.0,25.0,45

@@ -1,0 +1,4 @@
+# Keep generated data byte-identical on every OS (the reproducibility test compares bytes)
+data/** -text
+*.db binary
+*.pdf binary
